@@ -1,7 +1,6 @@
 Release History
 =============
-* __0.4: customized version started for needs of Ubuntu-rs.org Ubuntu LoCo Serbia
-
+* __0.4: *10 May 2011* customized version started for needs of Ubuntu-rs.org Ubuntu LoCo Serbia_
 
 * __0.3: *12 Feb 2011* Internationalization initialized__
     * easier to modify default language order
