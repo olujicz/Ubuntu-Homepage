@@ -1,3 +1,7 @@
 # sass
 .sass-cache
 .sass-cache/***
+
+# nepotrebni lokani fajlovi
+site/index.html~ 
+.directory
