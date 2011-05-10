@@ -44,8 +44,7 @@ eng.wikipedia = {
 	places: {
 		'Go to Article' : ["http://wiki.ubuntu-rs.org/index.php?title=Posebno:Search&search=%query%&go=Idi", false],
 		'Search'        : ["http://wiki.ubuntu-rs.org/index.php?title=Posebno:Search&search=%query%&fulltext=Search", false],
-	},
-	languages: default_languages
+	}
 };
 
 
