@@ -16,11 +16,7 @@
 
 var default_languages = {
 	'EN': 'en',
-	'DE': 'de',
-	'PT': 'pt',
-	'FR': 'fr',
-	'IT': 'it',
-	'ES': 'es'
+	'RS': 'sr'
 }
 
 /*	GOOGLE
@@ -43,24 +39,24 @@ eng.google = {
 	----------------------------------------------------- */
 
 eng.wikipedia = {
-	pageTitle: "Wikipedia",
+	pageTitle: "Viki RS",
 	logo: "wikipedia-white.png",
 	places: {
-		'Go to Article' : ["http://%lang%.wikipedia.org/wiki/Special:Search?search=%query%&go=Go", false],
-		'Search'        : ["http://%lang%.wikipedia.org/wiki/Special:Search?search=%query%&fulltext=Search", false],
+		'Go to Article' : ["http://wiki.ubuntu-rs.org/index.php?title=Posebno:Search&search=%query%&go=Idi", false],
+		'Search'        : ["http://wiki.ubuntu-rs.org/index.php?title=Posebno:Search&search=%query%&fulltext=Search", false],
 	},
 	languages: default_languages
 };
 
 
-/*	YOUTUBE
+/*	Forum
 	----------------------------------------------------- */
 
 eng.youtube = {
-	pageTitle: "YouTube",
-	logo: "youtube.png",
+	pageTitle: "Forum RS",
+	logo: "forum.png",
 	places: {
-		'Videos' : ["http://www.youtube.com/results?search_query=%query%", false]
+		'Pretraga' : ["http://forum.ubuntu-rs.org/search.php?action=search&keywords=%query%", false]
 	}
 };
 

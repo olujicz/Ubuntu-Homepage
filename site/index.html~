@@ -130,12 +130,12 @@
     // TODO: add to this, do not create, in case it already has entries
     var js_translations = {
       'Web'           : "Veb",
-      'Images'        : "Slike",
-      'Maps'          : "Mape",
-      'News'          : "Vesti",
-      'Go to Article' : "Članci",
-      'Search'        : "Pretraga",
-      'Videos'        : "Forum",
+      'Images'        : "Images",
+      'Maps'          : "Maps",
+      'News'          : "News",
+      'Go to Article' : "Go to Article",
+      'Search'        : "Search",
+      'Videos'        : "Videos",
       'Search Twitter': "Search Twitter",
       'Ubuntu Help'   : "Ubuntu Help"
     }
