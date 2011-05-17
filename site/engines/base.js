@@ -60,13 +60,13 @@ eng.youtube = {
 };
 
 
-/*	TWITTER
+/*	Sajt
 	----------------------------------------------------- */
 
 eng.twitter = {
-	pageTitle: "Twitter",
-	logo: "twitter.png",
+	pageTitle: "Sajt RS",
+	logo: "sajt.png",
 	places: {
-		'Search Twitter' : ["http://twitter.com/search?q=%query%", false]
+		'Search Twitter' : ["http://www.ubuntu-rs.org/?s=%query%", false]
 	}
 };
